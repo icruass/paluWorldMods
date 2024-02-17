@@ -1,0 +1,1 @@
+把此mod文件夹复制到目录 Palworld\Pal\Binaries\Win64\Mods 下
